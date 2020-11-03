@@ -7,6 +7,7 @@ public class fist {
 
         Scanner sc = new Scanner(System.in);
         fist = sc.next();
+        fist += "123";
         System.out.println(fist);
     }
 }
